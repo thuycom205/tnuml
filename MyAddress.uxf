@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>120</x>
+      <y>240</y>
+      <w>230</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>MyAddressesSrceen
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>470</x>
+      <y>240</y>
+      <w>170</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>MyAddressesModel</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>270</y>
+      <w>30</w>
+      <h>330</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;310.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>340</x>
+      <y>310</y>
+      <w>220</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+setShippingAndBillingAction</panel_attributes>
+    <additional_attributes>200.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>790</x>
+      <y>240</y>
+      <w>170</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>_profileService</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>860</x>
+      <y>270</y>
+      <w>30</w>
+      <h>450</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;430.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>330</y>
+      <w>340</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+postShippingInformationCustomer</panel_attributes>
+    <additional_attributes>320.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>470</y>
+      <w>350</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+postPaymentInformation</panel_attributes>
+    <additional_attributes>330.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>280</x>
+      <y>430</y>
+      <w>290</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+placeOrderAction</panel_attributes>
+    <additional_attributes>270.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>580</x>
+      <y>560</y>
+      <w>300</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+delete the activeQuoteId</panel_attributes>
+    <additional_attributes>10.0;20.0;280.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>480</x>
+      <y>400</y>
+      <w>30</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>
+
+
+
+bg=red
+*halign=left*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>800</x>
+      <y>370</y>
+      <w>30</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>
+
+
+
+bg=red
+*halign=left*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>810</x>
+      <y>510</y>
+      <w>30</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>
+
+
+
+bg=red
+*halign=left*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>170</x>
+      <y>370</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Note
+bg=blue
+
+ShareService
+
+new ShareService()
+      ShareService shareService = locator.get&lt;ShareService&gt;();
+
+
+ lib/ui/views/home_view.dart:338
+       child: Text('Payment Method'),
+lib/ui/views/co_shipping_method.dart:67
+
+                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w400),
+ list.add(Container(
+      child: Align(
+        alignment:Alignment.topLeft,
+        child: Text(
+          'Payment Method',
+          style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
+
+        ),
+      ),
+    ));
+
+    
+  bool isAddressExist(Address address) {
+    if (this.addressesCollection.length &gt; 0) {
+      for (int i  = 0; i &lt; this.addressesCollection.length; i++) {
+          if (address.id == this.addressesCollection[i].id) return true;
+      }
+
+      return false;
+  }
+
+
+      HomeModel model = locator.get&lt;HomeModel&gt;();
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>190</x>
+      <y>860</y>
+      <w>1120</w>
+      <h>750</h>
+    </coordinates>
+    <panel_attributes>style=wordwrap
+*Test note*
+--
+
+1.Home
+
+- If there is problem such as internet connection--&gt; show message to customer.and try again button
+- If there is 1000 products , can the app handle ?
+-If the user already login and remember me is checked? does the logged in  state persist?
+
+Bug: show invisible products
+
+2. Product detail
+
+If the product cant be fetch
+if 400 is returned ?
+
+show message
+
+3. Add to cart
+
+4.Process to checkout
+
+5. Category page
+
+-Sort 
+-Filter
+
+Bug: show invisible products
+
+6. Search
+
+7. Order management
+
+8. Address management
+
+9 . Sign/ Signup /Log out
+
+10. Profile management
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>140</x>
+      <y>990</y>
+      <w>40</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Bug
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>140</x>
+      <y>1270</y>
+      <w>40</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Bug
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>130</x>
+      <y>350</y>
+      <w>1200</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>
+*Must do*
+--
+style=wordwrap
+
+
+
+1) Handle error 
+
+CachedNetworkImage
+
+CachedNetworkImage(
+                    imageUrl: ProductHelper.getFullImageUrl(
+                        wishListItem.product.image),
+                    placeholder: (context, url) =&gt; Center(
+                          child: new CircularProgressIndicator(),
+                        ),
+                    errorWidget: (context, url, error) =&gt; new Icon(Icons.error))
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>80</x>
+      <y>450</y>
+      <w>40</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Bug
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>140</x>
+      <y>520</y>
+      <w>1200</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>
+*Must do*
+--
+style=wordwrap
+
+
+
+1) Handle error 
+
+CachedNetworkImage
+
+CachedNetworkImage(
+                    imageUrl: ProductHelper.getFullImageUrl(
+                        wishListItem.product.image),
+                    placeholder: (context, url) =&gt; Center(
+                          child: new CircularProgressIndicator(),
+                        ),
+                    errorWidget: (context, url, error) =&gt; new Icon(Icons.error))
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>140</x>
+      <y>140</y>
+      <w>1190</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>
+*Cart mini qty*
+--
+
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>140</x>
+      <y>0</y>
+      <w>160</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>
+*Logout*
+--
+
+style=wordwrap
+Must remove password...and more data</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>80</x>
+      <y>40</y>
+      <w>40</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Bug
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
