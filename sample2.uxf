@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>460</x>
+      <y>600</y>
+      <w>60</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Note
+bg=blue
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>660</x>
+      <y>600</y>
+      <w>30</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>
+
+
+
+bg=red
+*halign=left*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>280</x>
+      <y>450</y>
+      <w>30</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>440</x>
+      <y>690</y>
+      <w>170</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+saveAddress</panel_attributes>
+    <additional_attributes>150.0;30.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>310</y>
+      <w>50</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>*Note*
+--
+
+style=autoresize
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>270</x>
+      <y>100</y>
+      <w>890</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>halign=left
+Note
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

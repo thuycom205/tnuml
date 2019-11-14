@@ -4,7 +4,7 @@
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>441</x>
+      <x>549</x>
       <y>315</y>
       <w>207</w>
       <h>90</h>
@@ -15,7 +15,7 @@
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>774</x>
+      <x>882</x>
       <y>360</y>
       <w>18</w>
       <h>18</h>
@@ -26,7 +26,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>432</x>
+      <x>540</x>
       <y>153</y>
       <w>189</w>
       <h>27</h>
@@ -38,7 +38,7 @@ bg=orange</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>738</x>
+      <x>846</x>
       <y>153</y>
       <w>180</w>
       <h>27</h>
@@ -50,7 +50,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>468</x>
+      <x>576</x>
       <y>207</y>
       <w>18</w>
       <h>90</h>
@@ -62,7 +62,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>774</x>
+      <x>882</x>
       <y>225</y>
       <w>18</w>
       <h>54</h>
@@ -74,7 +74,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>468</x>
+      <x>576</x>
       <y>171</y>
       <w>27</w>
       <h>54</h>
@@ -85,7 +85,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>774</x>
+      <x>882</x>
       <y>171</y>
       <w>27</w>
       <h>72</h>
@@ -96,7 +96,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>477</x>
+      <x>585</x>
       <y>207</y>
       <w>315</w>
       <h>36</h>
@@ -108,7 +108,7 @@ addProductToCart</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>477</x>
+      <x>585</x>
       <y>261</y>
       <w>315</w>
       <h>36</h>
@@ -120,7 +120,7 @@ async return</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>468</x>
+      <x>576</x>
       <y>288</y>
       <w>27</w>
       <h>90</h>
@@ -131,7 +131,7 @@ async return</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>468</x>
+      <x>576</x>
       <y>378</y>
       <w>27</w>
       <h>36</h>
@@ -142,7 +142,7 @@ async return</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>774</x>
+      <x>882</x>
       <y>270</y>
       <w>27</w>
       <h>117</h>
@@ -153,7 +153,7 @@ async return</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>477</x>
+      <x>585</x>
       <y>351</y>
       <w>315</w>
       <h>36</h>
@@ -165,7 +165,7 @@ routeProductDetails</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>468</x>
+      <x>576</x>
       <y>360</y>
       <w>18</w>
       <h>27</h>
@@ -177,7 +177,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1080</x>
+      <x>1188</x>
       <y>180</y>
       <w>27</w>
       <h>225</h>
@@ -188,7 +188,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>981</x>
+      <x>1089</x>
       <y>153</y>
       <w>180</w>
       <h>27</h>
@@ -199,7 +199,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>792</x>
+      <x>900</x>
       <y>225</y>
       <w>315</w>
       <h>36</h>
@@ -211,7 +211,7 @@ syncMsg</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>792</x>
+      <x>900</x>
       <y>360</y>
       <w>315</w>
       <h>45</h>
@@ -224,7 +224,7 @@ syncMsg</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>594</x>
+      <x>702</x>
       <y>0</y>
       <w>117</w>
       <h>63</h>
@@ -245,7 +245,7 @@ child: TextField(
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1242</x>
+      <x>1350</x>
       <y>153</y>
       <w>153</w>
       <h>27</h>
@@ -256,7 +256,7 @@ child: TextField(
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1305</x>
+      <x>1413</x>
       <y>180</y>
       <w>27</w>
       <h>198</h>
@@ -267,7 +267,7 @@ child: TextField(
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1089</x>
+      <x>1197</x>
       <y>306</y>
       <w>243</w>
       <h>36</h>
@@ -279,7 +279,7 @@ processToCheckoutAction</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1458</x>
+      <x>1566</x>
       <y>153</y>
       <w>135</w>
       <h>27</h>
@@ -290,7 +290,7 @@ processToCheckoutAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1512</x>
+      <x>1620</x>
       <y>180</y>
       <w>27</w>
       <h>180</h>
@@ -301,7 +301,7 @@ processToCheckoutAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1314</x>
+      <x>1422</x>
       <y>279</y>
       <w>225</w>
       <h>36</h>
@@ -313,7 +313,7 @@ asyncMsg</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>162</x>
+      <x>270</x>
       <y>648</y>
       <w>153</w>
       <h>27</h>
@@ -324,7 +324,7 @@ asyncMsg</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>234</x>
+      <x>342</x>
       <y>666</y>
       <w>27</w>
       <h>198</h>
@@ -335,7 +335,7 @@ asyncMsg</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>792</x>
+      <x>900</x>
       <y>639</y>
       <w>135</w>
       <h>27</h>
@@ -347,7 +347,7 @@ COShippingModel</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>846</x>
+      <x>954</x>
       <y>666</y>
       <w>27</w>
       <h>180</h>
@@ -358,7 +358,7 @@ COShippingModel</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>711</x>
+      <x>819</x>
       <y>756</y>
       <w>162</w>
       <h>36</h>
@@ -370,7 +370,7 @@ refreshData</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>450</x>
+      <x>558</x>
       <y>495</y>
       <w>117</w>
       <h>63</h>
@@ -391,7 +391,7 @@ child: TextField(
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1017</x>
+      <x>1125</x>
       <y>639</y>
       <w>135</w>
       <h>27</h>
@@ -403,7 +403,7 @@ CheckoutService</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1107</x>
+      <x>1215</x>
       <y>666</y>
       <w>27</w>
       <h>216</h>
@@ -414,7 +414,7 @@ CheckoutService</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>891</x>
+      <x>999</x>
       <y>765</y>
       <w>234</w>
       <h>36</h>
@@ -426,7 +426,7 @@ postShippingInformationCustomer</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1251</x>
+      <x>1359</x>
       <y>648</y>
       <w>135</w>
       <h>27</h>
@@ -438,7 +438,7 @@ ShareService</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1314</x>
+      <x>1422</x>
       <y>675</y>
       <w>27</w>
       <h>198</h>
@@ -449,7 +449,7 @@ ShareService</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1143</x>
+      <x>1251</x>
       <y>792</y>
       <w>198</w>
       <h>36</h>
@@ -461,7 +461,7 @@ persistActiveShippingAddr</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>432</x>
+      <x>540</x>
       <y>999</y>
       <w>207</w>
       <h>27</h>
@@ -472,7 +472,7 @@ persistActiveShippingAddr</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>549</x>
+      <x>657</x>
       <y>1026</y>
       <w>27</w>
       <h>171</h>
@@ -483,7 +483,7 @@ persistActiveShippingAddr</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>747</x>
+      <x>855</x>
       <y>999</y>
       <w>153</w>
       <h>27</h>
@@ -494,7 +494,7 @@ persistActiveShippingAddr</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
+      <x>918</x>
       <y>1026</y>
       <w>27</w>
       <h>297</h>
@@ -505,7 +505,7 @@ persistActiveShippingAddr</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>585</x>
+      <x>693</x>
       <y>810</y>
       <w>270</w>
       <h>207</h>
@@ -517,7 +517,7 @@ syncMsg</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1143</x>
+      <x>1251</x>
       <y>828</y>
       <w>198</w>
       <h>36</h>
@@ -529,7 +529,7 @@ persistActiveShippingMethod</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>630</x>
+      <x>738</x>
       <y>1062</y>
       <w>198</w>
       <h>36</h>
@@ -541,7 +541,7 @@ setShippingAndBillingAction</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1035</x>
+      <x>1143</x>
       <y>999</y>
       <w>153</w>
       <h>27</h>
@@ -552,7 +552,7 @@ setShippingAndBillingAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1098</x>
+      <x>1206</x>
       <y>1026</y>
       <w>27</w>
       <h>405</h>
@@ -563,7 +563,7 @@ setShippingAndBillingAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
+      <x>918</x>
       <y>1080</y>
       <w>306</w>
       <h>36</h>
@@ -575,7 +575,7 @@ postShippingInformationCustomer</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
+      <x>918</x>
       <y>1206</y>
       <w>315</w>
       <h>36</h>
@@ -587,7 +587,7 @@ postPaymentInformation</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>576</x>
+      <x>684</x>
       <y>1170</y>
       <w>261</w>
       <h>36</h>
@@ -599,7 +599,7 @@ placeOrderAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>846</x>
+      <x>954</x>
       <y>1287</y>
       <w>270</w>
       <h>36</h>
@@ -611,7 +611,7 @@ delete the activeQuoteId</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>990</x>
+      <x>1098</x>
       <y>90</y>
       <w>162</w>
       <h>36</h>
@@ -622,7 +622,7 @@ delete the activeQuoteId</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1242</x>
+      <x>1350</x>
       <y>90</y>
       <w>162</w>
       <h>36</h>
@@ -633,7 +633,7 @@ delete the activeQuoteId</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>738</x>
+      <x>846</x>
       <y>99</y>
       <w>162</w>
       <h>36</h>
@@ -644,7 +644,7 @@ delete the activeQuoteId</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1593</x>
+      <x>1701</x>
       <y>567</y>
       <w>90</w>
       <h>36</h>
@@ -659,7 +659,7 @@ bg=red
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>1620</x>
+      <x>1728</x>
       <y>450</y>
       <w>36</w>
       <h>36</h>
@@ -670,7 +670,7 @@ bg=red
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>1422</x>
+      <x>1530</x>
       <y>360</y>
       <w>801</w>
       <h>711</h>
@@ -682,7 +682,7 @@ valign=top</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1647</x>
+      <x>1755</x>
       <y>459</y>
       <w>144</w>
       <h>117</h>
@@ -694,7 +694,7 @@ m2=[not log in]</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1629</x>
+      <x>1737</x>
       <y>477</y>
       <w>135</w>
       <h>108</h>
@@ -706,7 +706,7 @@ m2=[not log in]</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1557</x>
+      <x>1665</x>
       <y>387</y>
       <w>126</w>
       <h>36</h>
@@ -718,7 +718,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1629</x>
+      <x>1737</x>
       <y>414</y>
       <w>27</w>
       <h>54</h>
@@ -729,7 +729,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1701</x>
+      <x>1809</x>
       <y>558</y>
       <w>90</w>
       <h>36</h>
@@ -740,7 +740,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1701</x>
+      <x>1809</x>
       <y>612</y>
       <w>90</w>
       <h>36</h>
@@ -751,7 +751,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1440</x>
+      <x>1548</x>
       <y>459</y>
       <w>198</w>
       <h>243</h>
@@ -763,7 +763,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>UMLSyncBarHorizontal</id>
     <coordinates>
-      <x>1485</x>
+      <x>1593</x>
       <y>675</y>
       <w>351</w>
       <h>18</h>
@@ -775,7 +775,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1620</x>
+      <x>1728</x>
       <y>594</y>
       <w>27</w>
       <h>108</h>
@@ -786,7 +786,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1728</x>
+      <x>1836</x>
       <y>639</y>
       <w>27</w>
       <h>63</h>
@@ -797,7 +797,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1584</x>
+      <x>1692</x>
       <y>756</y>
       <w>171</w>
       <h>36</h>
@@ -808,7 +808,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1584</x>
+      <x>1692</x>
       <y>828</y>
       <w>171</w>
       <h>36</h>
@@ -819,7 +819,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1584</x>
+      <x>1692</x>
       <y>900</y>
       <w>171</w>
       <h>36</h>
@@ -830,7 +830,7 @@ m2=[login and have address]</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>1242</x>
+      <x>1350</x>
       <y>342</y>
       <w>27</w>
       <h>27</h>
@@ -846,7 +846,7 @@ bg=red
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>783</x>
+      <x>891</x>
       <y>801</y>
       <w>27</w>
       <h>27</h>
@@ -862,7 +862,7 @@ bg=red
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>1008</x>
+      <x>1116</x>
       <y>801</y>
       <w>27</w>
       <h>27</h>
@@ -878,7 +878,7 @@ bg=red
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>756</x>
+      <x>864</x>
       <y>1143</y>
       <w>27</w>
       <h>27</h>
@@ -894,7 +894,7 @@ bg=red
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>1044</x>
+      <x>1152</x>
       <y>1116</y>
       <w>27</w>
       <h>27</h>
@@ -910,7 +910,7 @@ bg=red
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>1053</x>
+      <x>1161</x>
       <y>1242</y>
       <w>27</w>
       <h>27</h>
@@ -926,7 +926,7 @@ bg=red
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>9</x>
+      <x>117</x>
       <y>747</y>
       <w>252</w>
       <h>36</h>
@@ -938,7 +938,7 @@ processToCheckoutAction</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>378</x>
+      <x>486</x>
       <y>648</y>
       <w>153</w>
       <h>27</h>
@@ -949,7 +949,7 @@ processToCheckoutAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>441</x>
+      <x>549</x>
       <y>675</y>
       <w>27</w>
       <h>99</h>
@@ -960,7 +960,7 @@ processToCheckoutAction</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>279</x>
+      <x>387</x>
       <y>756</y>
       <w>171</w>
       <h>36</h>
@@ -972,7 +972,7 @@ getCustomerState</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>441</x>
+      <x>549</x>
       <y>756</y>
       <w>18</w>
       <h>54</h>
@@ -983,7 +983,7 @@ getCustomerState</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>441</x>
+      <x>549</x>
       <y>810</y>
       <w>27</w>
       <h>99</h>
@@ -994,7 +994,7 @@ getCustomerState</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>450</x>
+      <x>558</x>
       <y>756</y>
       <w>153</w>
       <h>81</h>
@@ -1007,7 +1007,7 @@ ShippingMethod</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>486</x>
+      <x>594</x>
       <y>1836</y>
       <w>153</w>
       <h>36</h>
@@ -1018,7 +1018,7 @@ ShippingMethod</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>882</x>
+      <x>990</x>
       <y>1665</y>
       <w>90</w>
       <h>45</h>
@@ -1030,7 +1030,7 @@ type=receiver</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>585</x>
+      <x>693</x>
       <y>1674</y>
       <w>126</w>
       <h>45</h>
@@ -1042,7 +1042,7 @@ type=receiver</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>270</x>
+      <x>378</x>
       <y>2043</y>
       <w>333</w>
       <h>117</h>
@@ -1060,7 +1060,7 @@ Note
   <element>
     <id>UMLPackage</id>
     <coordinates>
-      <x>162</x>
+      <x>270</x>
       <y>1458</y>
       <w>954</w>
       <h>720</h>
@@ -1072,7 +1072,7 @@ layer=-1</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>756</x>
+      <x>864</x>
       <y>1674</y>
       <w>90</w>
       <h>36</h>
@@ -1084,7 +1084,7 @@ type=receiver</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
+      <x>621</x>
       <y>1764</y>
       <w>63</w>
       <h>90</h>
@@ -1095,7 +1095,7 @@ type=receiver</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>414</x>
+      <x>522</x>
       <y>1674</y>
       <w>126</w>
       <h>45</h>
@@ -1107,7 +1107,7 @@ type=receiver</panel_attributes>
   <element>
     <id>UMLSyncBarHorizontal</id>
     <coordinates>
-      <x>522</x>
+      <x>630</x>
       <y>1764</y>
       <w>108</w>
       <h>18</h>
@@ -1119,12 +1119,24 @@ type=receiver</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>495</x>
+      <x>603</x>
       <y>1710</y>
       <w>45</w>
       <h>72</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>30.0;60.0;30.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>918</x>
+      <y>657</y>
+      <w>135</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>bg=orange
+COShippingModel</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
