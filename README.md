@@ -8,3 +8,6 @@ https://vinastudy.vn/huong-dan-giai-bai-toan-lop-5-chuyen-de-tam-giac-ti-so-dien
 
 - MS Teams account: duong.nguyenthuy1a9@wellspring.edu.vn
 - Password: Class1a9
+
+
+http://38b429b1.ngrok.io/wordpress/wp1/
